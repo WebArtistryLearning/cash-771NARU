@@ -1,0 +1,11 @@
+a=input()
+b=a//25
+c=a-(25*b)
+d=c//10
+e=c-(10*d)
+f=e//5
+g=e-(5*f)
+h=g//5
+i=g-(5*h)
+x=b+d+f+h
+print(x)
